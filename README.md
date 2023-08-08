@@ -12,7 +12,7 @@ I'm currently enrolled in the [100 Days Of JavaScript course](https://www.udemy.
 
 This simple but essential project introduced me to the basics of DOM manipulation and event handling in JavaScript. By interacting with buttons, I could increment, decrement, and reset a counter's value.
 
-## Day 2: Random Number Generator
+## Day 2: [Random Number Generator](https://alexandriawhite.github.io/Random-Number-Generator/)
 
 Currently, I'm working on the Random Number Generator project. This project challenges me to generate random numbers within a specified range and display them. It's exciting to see how JavaScript's random functions can be applied to create interactive and useful features.
 
