@@ -19,6 +19,9 @@ This project challenged me to generate random numbers within a specified range a
 ## Day 3: [Random Hex Color Generator](https://alexandriawhite.github.io/Random-Hex-Color-Generator/)
 This project taught me how to manipulate colors using JavaScript. I learned how to generate random hex values, update the background color of a page dynamically, and enhance user interactivity through a button click event.
 
+## Day 4: [Modal/Pop-up Markup](https://alexandriawhite.github.io/Modal-Popup-Markup/)
+I created an interactive user interface by building a Modal Popup Markup which gave me hands-on experience in designing and implementing modal popups using HTML, CSS, and JavaScript.
+
 ## How to Join Me
 
 If you're interested in joining me on this journey, feel free to enroll in the [course](https://www.udemy.com/course/100-days-of-javascript/learn/lecture/25860574#overview). Whether you're a beginner or have some JavaScript knowledge, this course offers a supportive environment to learn and build together.
