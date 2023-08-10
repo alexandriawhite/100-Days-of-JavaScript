@@ -14,7 +14,10 @@ This simple but essential project introduced me to the basics of DOM manipulatio
 
 ## Day 2: [Random Number Generator](https://alexandriawhite.github.io/Random-Number-Generator/)
 
-Currently, I'm working on the Random Number Generator project. This project challenges me to generate random numbers within a specified range and display them. It's exciting to see how JavaScript's random functions can be applied to create interactive and useful features.
+This project challenged me to generate random numbers within a specified range and display them. It's exciting to see how JavaScript's random functions can be applied to create interactive and useful features.
+
+## Day 3: [Random Hex Color Generator](https://alexandriawhite.github.io/Random-Hex-Color-Generator/)
+This project taught me how to manipulate colors using JavaScript. I learned how to generate random hex values, update the background color of a page dynamically, and enhance user interactivity through a button click event.
 
 ## How to Join Me
 
