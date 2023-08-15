@@ -22,6 +22,9 @@ This project taught me how to manipulate colors using JavaScript. I learned how 
 ## Day 4: [Modal/Pop-up Markup](https://alexandriawhite.github.io/Modal-Popup-Markup/)
 I created an interactive user interface by building a Modal Popup Markup which gave me hands-on experience in designing and implementing modal popups using HTML, CSS, and JavaScript.
 
+## Day 5: [Palindrome Checker](https://alexandriawhite.github.io/Palindrome-Checker/)
+The Palindrome Checker helped deepen my understanding of string manipulation and logical operations in JavaScript. I learned how to reverse a string and compare it with the original to determine if they are the same, thus identifying palindromes.
+
 ## How to Join Me
 
 If you're interested in joining me on this journey, feel free to enroll in the [course](https://www.udemy.com/course/100-days-of-javascript/learn/lecture/25860574#overview). Whether you're a beginner or have some JavaScript knowledge, this course offers a supportive environment to learn and build together.
